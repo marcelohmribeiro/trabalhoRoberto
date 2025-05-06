@@ -9,7 +9,7 @@ function Inicio() {
         className="mt-4 border-2 rounded-lg"
         width="560"
         height="315"
-        src="https://www.youtube.com/embed/O-YzJEd3xQ4?si=p9fEoGTQvzKDUalG"
+        src="https://www.youtube.com/embed/WkYz406_dZA"
         title="YouTube video player"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         referrerPolicy="strict-origin-when-cross-origin"
