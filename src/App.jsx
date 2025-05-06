@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 import Inicio from "./Inicio"
-import Questoes from "./Questoes"
+import Perguntas from "./Questoes"
 
 function App() {
 
@@ -8,7 +8,7 @@ function App() {
     <Router>
       <Routes>
         <Route exact path="/" element={<Inicio />} />
-        <Route path="/questoes" element={<Questoes />} />
+        <Route path="/questoes" element={<Perguntas />} />
       </Routes>
     </Router>
   )
