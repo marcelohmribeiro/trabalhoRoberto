@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { questions } from "./Questoes.js"
+import { questions } from "./questionsData"
 import { Link } from "react-router-dom"
 
 function Questoes() {
