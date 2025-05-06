@@ -14,9 +14,9 @@ function Inicio() {
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen />
-        <Link to="/questoes" className="mt-4 bg-blue-500 text-white font-bold py-2 px-4 rounded hover:bg-blue-700 transition-all">
-          Ir para questões
-        </Link>
+      <Link to="/questoes" className="mt-4 bg-blue-500 text-white font-bold py-2 px-4 rounded hover:bg-blue-700 transition-all">
+        Ir para questões
+      </Link>
     </div>
   )
 }

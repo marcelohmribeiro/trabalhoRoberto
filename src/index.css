@@ -5,7 +5,6 @@ body {
     line-height: 1.5;
     background-color: #fff;
     min-height: 100vh;
-    /* Garante que o corpo ocupe 100% da altura da tela */
 }
 
 html,
